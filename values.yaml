@@ -1,0 +1,2 @@
+image: kmorts/vat:<+pipeline.sequenceId>
+replicas: 1
