@@ -17,5 +17,7 @@ body{
   background-color: whitesmoke;
   background-image: url("owl.gif");
   background-repeat: no-repeat;
+  height: 80%;
   background-position: center;
+  background-size: cover;
 }
